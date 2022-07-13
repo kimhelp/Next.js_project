@@ -11,9 +11,12 @@
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/96912191/171103580-e5d67612-ba47-4e84-a581-0c3ad57216e3.gif)
 
+## kimhelp 작업목록
+
+html,css 모두 작업
+
 front
 
-- html,css 모두 작업
 - 로그인
 - 로그아웃
 - 회원가입
